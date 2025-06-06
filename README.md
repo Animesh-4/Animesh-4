@@ -2,9 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/Animesh-4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=41FF25&background=000000&width=500&lines=Hi%2C+I'm+Animesh+Toshniwal;Mechanical+Engineering+%7C+Data+Science+%26+ML+Enthusiast;Deep+Learning+%7C+ReactJS+%7C+Python;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=0D1117&width=600&lines=Hello%2C+I'm+Animesh+Toshniwal;Mechanical+Engineer+|+Data+Science+%26+ML+Enthusiast;Deep+Learning+%7C+ReactJS+%7C+Python;Building+Solutions+with+Code" alt="Animated Typing Text" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/📧-animeshtoshniwal7@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💻-github.com/Animesh-4-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
 
 ---
 
