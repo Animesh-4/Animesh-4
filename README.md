@@ -1,14 +1,35 @@
 # Animesh-04
 
 <p align="center">
-  <a href="https://github.com/Animesh-4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=0D1117&width=600&lines=Hello%2C+I'm+Animesh+Toshniwal;Mechanical+Engineer+|+Data+Science+%26+ML+Enthusiast;Deep+Learning+%7C+ReactJS+%7C+Python;Building+Solutions+with+Code" alt="Animated Typing Text" />
+  <a href="https://github.com/Animesh-4" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/Animesh-4" alt="Animesh's Avatar" width="120" style="border-radius: 50%; border: 4px solid #41FF25;" />
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/📧-animeshtoshniwal7@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  <img src="https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/💻-github.com/Animesh-4-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+<h1 align="center" style="margin-top: 10px; font-size: 2.2em; color: #0D1117;">Animesh Toshniwal</h1>
+<p align="center" style="font-size: 1.1em; color: #3A3F44; margin-top: -5px;">
+  <em>Mechanical Engineer ● Data Science & Machine Learning Enthusiast</em>
+</p>
+
+<p align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <a href="mailto:animeshtoshniwal7@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/animesh-toshniwal-b68a89291/" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Animesh-4" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/💼_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
 
 ---
