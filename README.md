@@ -117,15 +117,12 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 ---
 
 ### 📫 Contact Me
-
-- 📞 Phone: +91-9413841489  
+ 
 - 📧 Email: [animeshtoshniwal7@gmail.com](mailto:animeshtoshniwal7@gmail.com)  
 - 🔗 GitHub: [github.com/Animesh-4](https://github.com/Animesh-4)  
 - 🔗 LinkedIn: [linkedin.com/in/animesh-toshniwal-b68a89291](https://www.linkedin.com/in/animesh-toshniwal-b68a89291/)  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Animesh-4&label=Profile%20views&color=brightgreen&style=flat" alt="Animesh-4" />
-</p>
+
 
