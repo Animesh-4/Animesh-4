@@ -86,7 +86,8 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 
 ### 🎯 Positions of Responsibility
 
-- **Tech Team Member**, *Aeromodelling Club, MNNIT Allahabad* (Feb 2024)  
+- **Tech Team Member**, *Aeromodelling Club, MNNIT Allahabad* (Feb 2024)
+  - Mentored the development of a Hand Gesture Controlled Drone under the Aeromodelling Club.
   - Contributed to hovercraft and drone avionics projects.  
 - **Team Member**, *Aeromodelling Club, Techkriti IIT Kanpur* (Mar 2024)  
   - Assisted in designing and testing UAV components.
@@ -96,13 +97,12 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 ### 🏆 Achievements
 
 - **Competitive Programming**:  
-  - Codeforces: Pupil (Rating: 1256)  
+  - Codeforces: Pupil (Rating: 1332)  
   - CodeChef: ★★★ (Rating: 1604)  
-  - LeetCode: Rating 1729  
+  - LeetCode: Rating 1796  
 - **Event Organization**:  
   - Organized and led the "HoverTrouble" event at Aeromodelling Club, MNNIT Allahabad.  
-- **Mentorship**:  
-  - Mentored the development of a Hand Gesture Controlled Drone under the Aeromodelling Club.
+
 
 ---
 
