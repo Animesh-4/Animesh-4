@@ -54,20 +54,6 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 
 ---
 
-### 🚀 Projects
-
-#### 🔥 Next Day Wildfire Spread Forecasting
-- Implemented a deep learning model (Swin-Unet) to predict wildfire spread for the next day.
-- Incorporated temporal attention modules into the Swin-Unet architecture.
-- Performed a comparative study with Res18-Unet, Res50-Unet, and UTAE; Swin-Unet achieved the best test AP of 0.47.
-
-#### 💡 CryptoClock | ReactJS, MaterialUI, Firebase, ChartJS
-- Developed a ReactJS web app for real-time cryptocurrency price tracking using the CoinGecko API.
-- Built a watchlist feature with pagination and interactive chart visualizations (ChartJS).
-- Demonstrated proficiency in UI/UX design and state management (Context API).
-
----
-
 ### 📚 Education
 
 - **Motilal Nehru National Institute of Technology Allahabad**  
