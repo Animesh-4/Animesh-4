@@ -47,9 +47,9 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 
 ### 🛠️ Skills & Technologies
 
-- **Programming Languages**: C/C++, Python, HTML, CSS, JavaScript  
+- **Programming Languages**: C/C++, Python, HTML, CSS, JavaScript, SQL  
 - **Frameworks & Libraries**: Swin-Unet, ReactJS, MaterialUI, ChartJS, NumPy, Pandas  
-- **Tools & Platforms**: VS Code, Sublime Text, Jupyter Notebook, Google Colab, Git & GitHub  
+- **Tools & Platforms**: VS Code, Sublime Text, Jupyter Notebook, Git & GitHub  
 - **Soft Skills**: Communication, Teamwork, Mentorship  
 
 ---
@@ -83,9 +83,9 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 ### 🏆 Achievements
 
 - **Competitive Programming**:  
-  - Codeforces: Pupil (Rating: 1332)  
+  - Codeforces: Pupil (Rating: 1380)  
   - CodeChef: ★★★ (Rating: 1604)  
-  - LeetCode: Rating 1796  
+  - LeetCode: Knight (Rating 1886)  
 - **Event Organization**:  
   - Organized and led the "HoverTrouble" event at Aeromodelling Club, MNNIT Allahabad.  
 
