@@ -1,6 +1,6 @@
 # Animesh-4
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Animesh-4" style="text-decoration: none;">
     <img src="https://avatars.githubusercontent.com/Animesh-4" alt="Animesh's Avatar" width="120" style="border-radius: 50%; border: 4px solid #41FF25;" />
   </a>
@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white" alt="ReactJS" />
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat-square" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+</p> -->
 
-<p align="center" style="margin-top: 20px;">
+<!-- <p align="center" style="margin-top: 20px;">
   <a href="mailto:animeshtoshniwal7@gmail.com" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/✉️_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -108,7 +108,7 @@ Hi! I'm **Animesh Toshniwal**, a Mechanical Engineering student at **Motilal Neh
 - 🔗 GitHub: [github.com/Animesh-4](https://github.com/Animesh-4)  
 - 🔗 LinkedIn: [linkedin.com/in/animesh-toshniwal-b68a89291](https://www.linkedin.com/in/animesh-toshniwal-b68a89291/)  
 
----
+--- -->
 
 
 
